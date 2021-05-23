@@ -45,3 +45,8 @@ exception
 how to handle exceptions in springspring:@exceptiohandling
 
 https://spring.io/blog/2013/11/01/exception-handling-in-spring-mvc
+
+streams:
+map and flat map
+
+https://www.baeldung.com/java-difference-map-and-flatmap
