@@ -1,0 +1,47 @@
+spring java core concepts:
+
+@RestController
+@Autowired
+	@Qualifier-?
+
+@Service
+@Value
+
+interacting with database
+
+@Repository
+
+
+@Configuration
+
+
+
+
+threads
+
+wait 
+notify
+
+@async
+immutabl
+locks
+
+fail safe fail fast
+
+hash table—concurrent hash map?
+
+
+
+linked list-how to travers to middle of element
+arrray-duplicate elements
+
+
+geeks  for geeks look at arrays and linked list
+
+
+
+exception
+
+how to handle exceptions in springspring:@exceptiohandling
+
+https://spring.io/blog/2013/11/01/exception-handling-in-spring-mvc
